@@ -46,7 +46,7 @@ tech-gallery/
 
 🌐 Live Demo
 
-Live Project:- 
+Live Project:- https://amanthinks.github.io/Cognifyz-web-dev-task3/
 
 ---
 
