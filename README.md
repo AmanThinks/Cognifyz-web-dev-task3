@@ -39,7 +39,7 @@ tech-gallery/
 
 🌐 Connect with Me
 
-- 💼 LinkedIn:- (https://www.linkedin.com/in/aman-gupta-9553073a2)
+- 💼 LinkedIn:- https://www.linkedin.com/in/aman-gupta-9553073a2
 - 💻 GitHub:- https://github.com/AmanThinks
 
 ---
